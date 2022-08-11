@@ -1,0 +1,259 @@
+<resources>
+    <string name="app_name">Gadgex</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gadgex">Gadgex</string>
+    <string name="bringing_the_future_closer_through_technology">Bringing the future closer through technology</string>
+    <string name="backgroundsignupimage">BackgroundSignUpImage</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_yet">Already have an account yet?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forgotten_password">Forgotten Password?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_account_yet">Already have account yet?</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="settings">Settings</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="get_quality_gadgets">Get quality gadgets</string>
+    <string name="para">Get the best quality gadgets from the \n best place </string>
+    <string name="search">Search...</string>
+
+
+    <string name="title1">20% off</string>
+    <string name="title2">on all phones</string>
+    <string name="picture">picture</string>
+    <string name="phoneimage">phoneImage</string>
+    <string name="profilepicture">profilePicture</string>
+    <string name="button">button</string>
+
+    <string name="item1">Airpods</string>
+    <string name="item2">iWatch</string>
+    <string name="item3">Soundpods</string>
+    <string name="item4">Airmouse</string>
+    <string name="item5">Laptop</string>
+    <string name="item6">Speaker</string>
+    <string name="item7">Airpods</string>
+    <string name="item8">Headset</string>
+    <string name="item9">Phone</string>
+    <string name="item10">Airpods</string>
+
+    <string name="header1">Popular</string>
+    <string name="header2">Recommended</string>
+    <string name="header3">Most Search</string>
+
+    <string name="button1">view all</string>
+    <string name="button2">view all</string>
+    <string name="button3">view all</string>
+
+
+    <string name="price1">$400</string>
+    <string name="price2">$500</string>
+    <string name="price3">$400</string>
+    <string name="price4">$40</string>
+    <string name="price5">$400</string>
+    <string name="price6">$250</string>
+    <string name="price7">$100</string>
+    <string name="price8">$400</string>
+    <string name="price9">$100</string>
+    <string name="price10">$900</string>
+
+    <string name="view_all">View all</string>
+    <string name="viewall">viewAll</string>
+    <string name="popular">Popular</string>
+    <string name="recommended">Recommended</string>
+    <string name="picture1">picture1</string>
+    <string name="picture2">picture2</string>
+    <string name="back">Back</string>
+
+    <string name="detail1">Product Description
+        Product Name: P9 TWS BLUETOOTH Earphone
+        Material: fire prevention PC
+        Function: bluetooth wireless mini ANC
+
+        Package
+        GPS Rename Bluetooth headset Generation 3rd/2nd generation
+        P9 pro max Wireless Headphones LED Colorful Breathing Lights Fold-able Stereo Headband Earphones
+
+        Generation 3rd/2nd generation Bluetooth headset, wireless bluetooth earphone
+
+        Package Include:
+        1 x pair earphones
+        1 x charger case
+        1 x charge cable
+        1 x manual
+        4 x Extra earplugs
+    </string>
+
+    <string name="detail2">Product Description
+        Product Name: P9 TWS BLUETOOTH Earphone
+        Material: fire prevention PC
+        Function: bluetooth wireless mini ANC
+
+        Package
+        GPS Rename Bluetooth headset Generation 3rd/2nd generation
+        P9 pro max Wireless Headphones LED Colorful Breathing Lights Fold-able Stereo Headband Earphones
+
+        Generation 3rd/2nd generation Bluetooth headset, wireless bluetooth earphone
+
+        Package Include:
+        1 x pair earphones
+        1 x charger case
+        1 x charge cable
+        1 x manual
+        4 x Extra earplugs
+    </string>
+    <string name="detail3">Product Description
+        Product Name: P9 TWS BLUETOOTH Earphone
+        Material: fire prevention PC
+        Function: bluetooth wireless mini ANC
+
+        Package
+        GPS Rename Bluetooth headset Generation 3rd/2nd generation
+        P9 pro max Wireless Headphones LED Colorful Breathing Lights Fold-able Stereo Headband Earphones
+
+        Generation 3rd/2nd generation Bluetooth headset, wireless bluetooth earphone
+     </string>
+
+    <string name="detail4">
+        Product Description
+        Product Name: P9 TWS BLUETOOTH Earphone
+        Material: fire prevention PC
+        Function: bluetooth wireless mini ANC
+
+        Package
+        GPS Rename Bluetooth headset Generation 3rd/2nd generation
+        P9 pro max Wireless Headphones LED Colorful Breathing Lights Fold-able Stereo Headband Earphones
+
+        Generation 3rd/2nd generation Bluetooth headset, wireless bluetooth earphone
+     </string>
+
+    <string name="detail5">
+        Product Description
+        Product Name: P9 TWS BLUETOOTH Earphone
+        Material: fire prevention PC
+        Function: bluetooth wireless mini ANC
+
+        Package
+        GPS Rename Bluetooth headset Generation 3rd/2nd generation
+        P9 pro max Wireless Headphones LED Colorful Breathing Lights Fold-able Stereo Headband Earphones
+
+        Generation 3rd/2nd generation Bluetooth headset, wireless bluetooth earphone
+     </string>
+
+    <string name="detail6">Product Description
+        Product Name: P9 TWS BLUETOOTH Earphone
+        Material: fire prevention PC
+        Function: bluetooth wireless mini ANC
+
+        Package
+        GPS Rename Bluetooth headset Generation 3rd/2nd generation
+        P9 pro max Wireless Headphones LED Colorful Breathing Lights Fold-able Stereo Headband Earphones
+
+        Generation 3rd/2nd generation Bluetooth headset, wireless bluetooth earphone
+    </string>
+
+
+    <string name="description">Description</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="_400">$400</string>
+    <string name="_1">1</string>
+    <string name="airpods">Airpods</string>
+    <string name="select_your_payment_method">Select Your Payment Method</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="apple_pay">Apple Pay</string>
+    <string name="paypal">PayPal</string>
+    <string name="select_your_card">Select Your Card</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="card_number_9010">Card Number .... .... .... .... 9010</string>
+    <string name="expire_date_12_20">Expire Date 12/20</string>
+    <string name="card_holder_s_name_g_raynond">Card Holder\'s Name G. RAYNOND</string>
+    <string name="cvc_cw2">CvC/CW2 . . . .</string>
+    <string name="save_your_card_information_it_s_safe">Save your card information.It\'s safe</string>
+    <string name="or_add_new_card">Or Add New Card</string>
+    <string name="card_number">Card Number</string>
+    <string name="_9010">. . . . . . . . . . . . 9010</string>
+    <string name="_12_12">12/12</string>
+    <string name="expire_date">Expire Date</string>
+    <string name="card_holder_s_name">Card Holder\'s Name</string>
+    <string name="logout">Logout</string>
+    <string name="about_us">About Us</string>
+    <string name="log_out">Log Out</string>
+    <string name="paymentlogo">paymentLogo</string>
+    <string name="payment_success">Payment Success</string>
+    <string name="good">good</string>
+    <string name="your_product_will_be_delivered_shortly">Your product will be delivered shortly</string>
+    <string name="go_back_home">Go Back Home</string>
+    <string name="g_raynond">G. RAYNOND</string>
+    <string name="are_sure_you_want_to_log_out">Are sure you want to log out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="aboutUs1">Gadgex is one of world best technology and digital lifestyle shopping portal, that Provides a simulating online shopping experience, it offers the latest range of gadgets and electronic products at most competitive prices. Gadgex carries over 1,000 products and the list is constantly being revised. We focus on bringing you the most unique gadget in World. </string>
+    <string name="aboutUs2">We ensure that your online shopping experience at Gadgex is easy, enjoyable and absolutely secure. We routinely conduct security audits of our infrastructure to ensure that none of our systems are vulnerable to downtime, hacking or any other disruption. We also safeguard the privacy and integrity of customer data.</string>
+    <string name="aboutUs3">Our pricing policy is transparent and ethical - the prices that we post are all-inclusive and there are no hidden charges. Hence, you pay as per the listed price and you get the ordered product, appropriately packaged at your doorstep, free of cost. Yes, we offer free delivery in Port Harcourt city while customers outside Rivers State pay for there delivery.</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="items_ordered">Items Ordered</string>
+    <string name="change_password">Change Password</string>
+    <string name="arrow2">arrow2</string>
+    <string name="your_rating_matters" />
+    <string name="rate_the_app">Rate the App</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="forgot_your_password">Forgot your password</string>
+    <string name="please_enter_your_email_address_and_your_password_reset_information_will_be_sent_to_your_email">Please enter your email address and your password reset information will be sent to your email</string>
+    <string name="reset">Reset</string>
+    <string name="remove">Remove</string>
+    <string name="delivery">Delivery</string>
+    <string name="total">Total</string>
+    <string name="_420">$420</string>
+    <string name="emmanuel_barimue_pius">Emmanuel Barimue Pius</string>
+    <string name="address">Address</string>
+    <string name="image">image</string>
+    <string name="item_s">ITEM(S)</string>
+    <string name="no_of_item">NO. OF ITEM</string>
+    <string name="price">PRICE</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="_20">$20</string>
+    <string name="no_2_hosanna_close_woji_port_harcourt">No. 2 Hosanna Close Woji Port Harcourt</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="pay_now">Pay now</string>
+    <string name="very_happy">Very Happy</string>
+    <string name="very_good">Very Good</string>
+    <string name="angry">Angry</string>
+    <string name="confuse">Confuse</string>
+    <string name="happy">Happy</string>
+    <string name="very_angry">Very Angry</string>
+    <string name="rate_your_experience">Rate your Experience</string>
+    <string name="do_more_shopping">Do More Shopping</string>
+    <string name="emoji">emoji</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="save">Save</string>
+    <string name="_43300123956739010">43300123956739010</string>
+    <string name="pin">Pin</string>
+    <string name="continue_shopping">Continue Shopping</string>
+    <string name="iwatch">iWatch</string>
+    <string name="most_search">Most Search</string>
+    <string name="soundpods">Soundpods</string>
+    <string name="airmouse">Airmouse</string>
+    <string name="drone">Drone</string>
+    <string name="most_searched">Most searched</string>
+    <string name="_15_000">#15,000</string>
+    <string name="_20_000">#20,000</string>
+
+
+    <string-array name="Colour">
+        <item>Grey</item>
+        <item>Black</item>
+        <item>Red</item>
+    </string-array>
+
+
+</resources>

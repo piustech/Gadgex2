@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu"
+        android:title="Menu"
+        android:icon="@drawable/ic_menu"
+        app:showAsAction="always">
+
+        <menu>
+
+            <item
+                android:id="@+id/homePageFragment2"
+                android:title="Home"
+
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/aboutFragment"
+                android:title="@string/about_us"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/logoutFragment"
+                android:title="@string/log_out"
+                app:showAsAction="never"/>
+
+        </menu>
+
+    </item>
+
+</menu>

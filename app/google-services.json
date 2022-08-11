@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969538492488",
+    "project_id": "gadgex-b6b86",
+    "storage_bucket": "gadgex-b6b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969538492488:android:567518f3f50ca64188a07d",
+        "android_client_info": {
+          "package_name": "com.example.gadgex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969538492488-rdn85i497ubto40vkm6iuk51piksr619.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBM563Gk3gvZkmxCuxq1h-VzdrtPtziwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969538492488-rdn85i497ubto40vkm6iuk51piksr619.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

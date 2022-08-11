@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/background.xml" value="0.184" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/border.xml" value="0.157" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/border_card.xml" value="0.1595" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/button_background.xml" value="0.184" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/button_custom_color.xml" value="0.1805" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/card_border.xml" value="0.154" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/cart_background.xml" value="0.159" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/cart_border.xml" value="0.159" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/grey_tint.xml" value="0.154" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/ic_add.xml" value="0.154" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/ic_notifications.xml" value="0.139" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/roundstyle.xml" value="0.151" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/drawable/star_color.xml" value="0.1805" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/activity_extended.xml" value="0.11385135135135135" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/activity_second.xml" value="0.15601851851851853" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/activity_third.xml" value="0.11385135135135135" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_about.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_cart.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_detail.xml" value="0.15601851851851853" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_exit.xml" value="0.12972972972972974" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_first_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_forgotten_password.xml" value="0.13999999999999999" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_home.xml" value="0.11385135135135135" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_home_detail.xml" value="0.11385135135135135" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_home_page.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_login.xml" value="0.15601851851851853" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_logout.xml" value="0.11385135135135135" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_most_search.xml" value="0.12972972972972974" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_new_card.xml" value="0.1" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_payment.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_payment_success.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_personal_details.xml" value="0.11385135135135135" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_popular.xml" value="0.12972972972972974" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_profile.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_reconmmend.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_second_screen.xml" value="0.22" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_sign_up.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_splash.xml" value="0.15601851851851853" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_verify_payment.xml" value="0.1" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/fragment_view_pager.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/horizontal_item_list.xml" value="0.22" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/logout_popup.xml" value="0.13999999999999999" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/most_list_item.xml" value="0.12905405405405404" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/most_search_items.xml" value="0.12842809364548494" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/personal_information_popup.xml" value="0.1" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/popular_items.xml" value="0.1" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/profile_settings.xml" value="0.11385135135135135" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/reconmmended_item_list.xml" value="0.15601851851851853" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/layout/vertical_item_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/menu/bottom_nav.xml" value="0.11385135135135135" />
+        <entry key="..\:/Users/EMMANUEL BARIMUE P/AndroidStudioProjects/Gadgex/app/src/main/res/menu/nav_bar.xml" value="0.11385135135135135" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

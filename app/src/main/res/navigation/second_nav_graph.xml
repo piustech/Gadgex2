@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/second_nav_graph"
+    android:label="Home"
+    app:startDestination="@id/homePageFragment2">
+
+    <fragment
+        android:id="@+id/homePageFragment2"
+        android:name="com.example.gadgex.homepagerecyclerview.HomePageFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home_page">
+
+
+        <action
+            android:id="@+id/action_homePageFragment2_to_reconmmendedFragment"
+            app:destination="@id/reconmmendedFragment" />
+
+        <action
+            android:id="@+id/action_homePageFragment2_to_popularFragment"
+            app:destination="@id/popularFragment" />
+        <action
+            android:id="@+id/action_homePageFragment2_to_mostSearchFragment"
+            app:destination="@id/mostSearchFragment" />
+        <action
+            android:id="@+id/action_homePageFragment2_to_detailFragment"
+            app:destination="@id/detailFragment" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.example.gadgex.reconmmendedrecyclerview.DetailFragment"
+        android:label="Detail"
+        tools:layout="@layout/fragment_detail">
+
+
+        <action
+            android:id="@+id/action_detailFragment_to_cartFragment"
+            app:destination="@id/cartFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/reconmmendedFragment"
+        android:name="com.example.gadgex.reconmmendedrecyclerview.ReconmmendedFragment"
+        android:label="Recommended"
+        tools:layout="@layout/fragment_reconmmend">
+
+        <action
+            android:id="@+id/action_reconmmendedFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cartFragment"
+        android:name="com.example.gadgex.fragments.CartFragment"
+        android:label="Cart"
+        tools:layout="@layout/fragment_cart">
+
+        <action
+            android:id="@+id/action_cartFragment_to_paymentFragment"
+            app:destination="@id/paymentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/paymentFragment"
+        android:name="com.example.gadgex.fragments.PaymentFragment"
+        android:label="Payment"
+        tools:layout="@layout/fragment_payment">
+
+        <action
+            android:id="@+id/action_paymentFragment_to_newCardFragment"
+            app:destination="@id/newCardFragment" />
+        <action
+            android:id="@+id/action_paymentFragment_to_paymentSuccessFragment"
+            app:destination="@id/paymentSuccessFragment" />
+        <action
+            android:id="@+id/action_paymentFragment_to_verifyPaymentFragment"
+            app:destination="@id/verifyPaymentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newCardFragment"
+        android:name="com.example.gadgex.fragments.NewCardFragment"
+        android:label="New Card"
+        tools:layout="@layout/fragment_new_card">
+        <action
+            android:id="@+id/action_newCardFragment_to_paymentSuccessFragment"
+            app:destination="@id/paymentSuccessFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.gadgex.profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" >
+        <action
+            android:id="@+id/action_profileFragment_to_logoutFragment"
+            app:destination="@id/logoutFragment" />
+        <action
+            android:id="@+id/action_profileFragment_to_personalDetailsFragment"
+            app:destination="@id/personalDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.example.gadgex.menufragment.AboutFragment"
+        android:label="About Us"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/logoutFragment"
+        android:name="com.example.gadgex.menufragment.LogoutFragment"
+        android:label="Log out"
+        tools:layout="@layout/fragment_logout" >
+        <action
+            android:id="@+id/action_logoutFragment_to_homePageFragment2"
+            app:destination="@id/homePageFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/paymentSuccessFragment"
+        android:name="com.example.gadgex.fragments.PaymentSuccessFragment"
+        android:label="Payment Success"
+        tools:layout="@layout/fragment_payment_success">
+        <action
+            android:id="@+id/action_paymentSuccessFragment_to_homePageFragment2"
+            app:destination="@id/homePageFragment2" />
+        <action
+            android:id="@+id/action_paymentSuccessFragment_to_reconmmendedFragment"
+            app:destination="@id/reconmmendedFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personalDetailsFragment"
+        android:name="com.example.gadgex.profile.PersonalDetailsFragment"
+        android:label="Personal Details"
+        tools:layout="@layout/fragment_personal_details">
+        <action
+            android:id="@+id/action_personalDetailsFragment_to_profileFragment"
+            app:destination="@id/profileFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/verifyPaymentFragment"
+        android:name="com.example.gadgex.fragments.VerifyPaymentFragment"
+        android:label="Verify Payment"
+        tools:layout="@layout/fragment_verify_payment">
+        <action
+            android:id="@+id/action_verifyPaymentFragment_to_paymentSuccessFragment"
+            app:destination="@id/paymentSuccessFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/popularFragment"
+        android:name="com.example.gadgex.popularrecyclerview.PopularFragment"
+        android:label="Popular"
+        tools:layout="@layout/fragment_popular">
+        <action
+            android:id="@+id/action_popularFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mostSearchFragment"
+        android:name="com.example.gadgex.mostsearchrecylerview.MostSearchFragment"
+        android:label="Most searched"
+        tools:layout="@layout/fragment_most_search">
+        <action
+            android:id="@+id/action_mostSearchFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+</navigation>
